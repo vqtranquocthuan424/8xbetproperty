@@ -1,22 +1,14 @@
-Welcome to Lumache's documentation!
+8xBet - 8xbet.property - Nhà cái uy tín top 1 Châu Á
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+8xbet - Điểm đến lý tưởng cho các bet thủ đam mê. 8xbet cung cấp trải nghiệm cá cược đỉnh cao và là đối tác đáng tin cậy trên hành trình khám phá thế giới giải trí đa dạng. Với nền tảng an toàn, uy tín và dịch vụ tận tâm, 8xbet luôn cam kết mang lại niềm vui và sự hài lòng. Hãy tạo nên những khoảnh khắc đáng nhớ cùng 8xbet. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Website: https://8xbet.property/
 
-   This project is under active development.
+Phone: 0990984705 
 
-Contents
---------
+Address: 107 Võ Thị Sáu, Phường 7, Bạc Liêu, Việt Nam. 
 
-.. toctree::
-
-   usage
-   api
+Hashtag: #8xBet, #8xbetproperty, #NhaCai8xBet
